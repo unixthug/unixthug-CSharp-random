@@ -1,0 +1,15 @@
+C:\Users\Adam\Documents\Programming\C#\Penny\obj\Debug\net6.0\Penny.csproj.AssemblyReference.cache
+C:\Users\Adam\Documents\Programming\C#\Penny\obj\Debug\net6.0\Penny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\Documents\Programming\C#\Penny\obj\Debug\net6.0\Penny.AssemblyInfoInputs.cache
+C:\Users\Adam\Documents\Programming\C#\Penny\obj\Debug\net6.0\Penny.AssemblyInfo.cs
+C:\Users\Adam\Documents\Programming\C#\Penny\obj\Debug\net6.0\Penny.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Documents\Programming\C#\Penny\bin\Debug\net6.0\Penny.exe
+C:\Users\Adam\Documents\Programming\C#\Penny\bin\Debug\net6.0\Penny.deps.json
+C:\Users\Adam\Documents\Programming\C#\Penny\bin\Debug\net6.0\Penny.runtimeconfig.json
+C:\Users\Adam\Documents\Programming\C#\Penny\bin\Debug\net6.0\Penny.dll
+C:\Users\Adam\Documents\Programming\C#\Penny\bin\Debug\net6.0\Penny.pdb
+C:\Users\Adam\Documents\Programming\C#\Penny\obj\Debug\net6.0\Penny.dll
+C:\Users\Adam\Documents\Programming\C#\Penny\obj\Debug\net6.0\refint\Penny.dll
+C:\Users\Adam\Documents\Programming\C#\Penny\obj\Debug\net6.0\Penny.pdb
+C:\Users\Adam\Documents\Programming\C#\Penny\obj\Debug\net6.0\Penny.genruntimeconfig.cache
+C:\Users\Adam\Documents\Programming\C#\Penny\obj\Debug\net6.0\ref\Penny.dll
